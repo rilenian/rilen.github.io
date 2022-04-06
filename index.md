@@ -3,7 +3,9 @@
 你可以通过以下方式找到我。
 
 Email：rilenian@foxmail.com
-Twitter: @rilen18676841
+
+Twitter: @rilen18676841[Link](twitter.com/rilen18676841)
+
 QQ: 1297450424
 
 ### 渴望力量的考研er
