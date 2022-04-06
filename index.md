@@ -4,7 +4,7 @@
 
 Email：rilenian@foxmail.com
 
-Twitter: @rilen18676841[Link](twitter.com/rilen18676841)
+Twitter: [@rilen18676841](twitter.com/rilen18676841)
 
 QQ: 1297450424
 
