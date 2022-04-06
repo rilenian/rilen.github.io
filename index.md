@@ -4,7 +4,7 @@
 
 Email：rilenian@foxmail.com
 
-Twitter: [@rilen18676841](twitter.com/rilen18676841)
+Twitter: @rilen18676841
 
 QQ: 1297450424
 
@@ -13,17 +13,22 @@ QQ: 1297450424
 喜爱一切值得期待的事情！
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+```
+计算机组成原理
+数据结构
+操作系统
+计算机网络
+编译原理
+数据库系统
+计算机系统结构
+离散数学
+算法导论
+统计学习方法
+神经网络与深度学习
+计算机视觉原理
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rilenian/rilen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
