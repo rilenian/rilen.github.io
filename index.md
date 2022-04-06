@@ -1,25 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎访问　　WELCOMETOYOU
 
-You can use the [editor on GitHub](https://github.com/rilenian/rilen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以通过以下方式找到我。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email：rilenian@foxmail.com
+Twitter: @rilen18676841
+QQ: 1297450424
 
-### Markdown
+### 渴望力量的考研er
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+喜爱一切值得期待的事情！
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
