@@ -1,6 +1,6 @@
 ## 欢迎访问　　WELCOMETOYOU
 
-你可以通过以下方式找到我。
+你可以通过以下方式找到我。<img src="https://github.com/rilenian/rilenian.github.io/blob/master/net1.png" width="50" height="70" />
 
 Email：rilenian@foxmail.com
 
@@ -19,6 +19,8 @@ QQ: 1297450424
 万般期待认识更多的小伙伴一起玩耍。
 
 水平有限，愿共同进步。
+
+
 
 
 
