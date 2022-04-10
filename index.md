@@ -1,5 +1,5 @@
 ## 欢迎访问　　WELCOMETOYOU
-!<img src="https://github.com/rilenian/rilenian.github.io/blob/master/net1.png" width="50" height="70" />
+<img src="https://github.com/rilenian/rilenian.github.io/blob/master/net1.png" width="50" height="70" />
 
 你可以通过以下方式找到我。
 
