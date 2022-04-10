@@ -1,13 +1,12 @@
 ## 欢迎访问　　WELCOMETOYOU
-<img src="https://github.com/rilenian/rilenian.github.io/blob/master/net1.png" width="50" height="70" />
 
 你可以通过以下方式找到我。
 
-Email：rilenian@foxmail.com
+`Email：rilenian@foxmail.com`
 
-Twitter: @rilen18676841
+`Twitter: @rilen18676841`
 
-QQ: 1297450424
+`QQ: 1297450424`
 
 ### 渴望力量的考研er
 
