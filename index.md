@@ -6,13 +6,14 @@
 
 `Twitter: @rilen18676841`
 
-`QQ: 1297450424`
+`QQ: 1297450424`  
+>愿洛水相逢-[愿诸君共听](https://github.com/rilenian/Thual-Dream/blob/main/dreamal.md)
 
 ### 渴望力量的考研er
 
-喜爱一切值得期待的事情！
+>喜爱一切值得期待的事情！
 
-目标跨考Thu912！
+>目标跨考Thu912！
 
 希望从此记录我奔赴CS的花约。
 
